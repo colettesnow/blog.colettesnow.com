@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 redirect_from:
   - /post/98457408207/games-2014-to-look-forward-to/
   - /post/98457408207/
@@ -19,25 +19,25 @@ I can’t see this getting an English release but I thoroughly enjoy licensed fi
 ### **Lightning Returns: Final Fantasy XIII** _Releases February 13_ [trailer](https://www.youtube.com/watch?v=b9OGgEyoF5Y)
 While I didn’t appreciate the lack of towns in the first game of the Final Fantasy 13 sub-series, I was pleasantly surprised by the sequel XIII-2 and as such am looking forward to this third game. It looks to have finally introduced a proper explorable world and the time mechanic raises fond memories of Zelda – Majora’s Mask.
 
-### **Atelier Escha & Logy: Alchemists of the Dusk Sky** _Releases March 7_ [trailer]()
+### **Atelier Escha & Logy: Alchemists of the Dusk Sky** _Releases March 7_ [trailer](https://www.youtube.com/watch?v=Az2UCpKzK04)
 I love the Atelier series. I originally purchased Atelier Rorona for the art style but have fallen in love with the characters, the crafting system and how it incorporates time management. I am still working on the latter half of the Arland series and Atelier Ayesha but I am excited for what this sequel will bring given I have gained so much enjoyment out of  the Rorona, Totori, and the Mana Khermia games.
 
-### **Metal Gear Solid 5 – Ground Zeroes** _Releases March 20_ [trailer]()
+### **Metal Gear Solid 5 – Ground Zeroes** _Releases March 20_ [trailer](https://www.youtube.com/watch?v=ltH1eWxZutE)
 While I have only so far completed Metal Gear Solid 2, and have an ongoing play-through of 3 and Rising, and Peace Walkers and 4 in the backlog, I am surprisingly excited for the newest entry in this series. The world Kojima has shaped is fascinating and its transition to open world addresses the prime complaint I’ve had so far with the series – that most everything (that I have experienced so far at least) has taken place in an enclosed space. I am making this series a priority to complete in time for this latest release so that I may fully appreciate and more importantly understand the newest entry in the series.
 
-### **Child of Light** _Releases April 30_ [trailer]()
+### **Child of Light** _Releases April 30_ [trailer](https://www.youtube.com/watch?v=zXBbB4sfEpQ)
 This game came out of nowhere but I just cannot resist pretty 2D graphics. It’s what convinced me to get into another Ubisoft series Rayman Origins and it’s sequel Legends, and I was not disappointed. That relation isn’t just a coincidence, both Rayman and Child of Light will use the same engine, UbiArt, so we can expect if nothing else a beautiful game.
 
-### **X** _Releases TBA_ [trailer]()
+### **X** _Releases TBA_ [trailer](https://www.youtube.com/watch?v=qQrYwYbwlS4)
 This appears to be the sequel to 2011’s Xenoblade, one of the best role playing games to grace the Wii, and spiritual successor to the Xenoblade/Xenosaga games. Now that Super Mario has been released and we have a confirmed Zelda game on the way, this is likely to be the game that will tip the scales and convince me its time to enter the eighth generation with the purchase of a Wii U.
 
-### **Tales of Xillia 2** _Releases TBA 2014_ [trailer]()
+### **Tales of Xillia 2** _Releases TBA 2014_ [trailer](https://www.youtube.com/watch?v=Fz4VdUQrSb4)
 It used to be that we had a drought of Tales games here in the west when several games skipped release altogether – Destiny 2, Rebirth, Vesperia PS3, Tempest, Innocence, Graces Wii and Hearts but suddenly we got Graces f followed shortly by the Abyss remake, not that long ago now we just got the first Xillia, and soon the Symphonia HD remake. That’s practically (probably) the same amount of Tales releases in the last 2 years than we have received in the last decade and I for one couldn’t be happier (if only Sega would follow suit with Valkyria). Tales is the series that really hooked me on role-playing games and I can’t wait for another chance to return to Elympious – a world that I felt wasn’t quite as fleshed out as it could in the first game (especially compared to the Symphonia equivalent Tethala).
 
-### **Destiny** _Releases September 9_ [trailer]()
+### **Destiny** _Releases September 9_ [trailer](https://www.youtube.com/watch?v=y2Jx5__c1lY)
 I am not one that plays many shooters. I will occasionally play the more story heavy games but due to simulation sickness, this can be quite the unpleasant undertaking so I tend to only play the shooters that truly catch my eye. Destiny is one such series. I enjoy loot and crafting based games, and Destiny looks like it’s shaping up to combine these elements with a fascinating Sci-Fi universe.
 
-### **Shin Megami Tensei – Persona 5** _Releases TBA_ [trailer]()
+### **Shin Megami Tensei – Persona 5** _Releases TBA_ [trailer](https://www.youtube.com/watch?v=2mZssK05WYo)
 It has been several years since we have had a new Persona game (not a remake or spin-off) and in true Atlus fashion it is coming to the PS3 after the release of it’s successor console. That 2014 release date is for Japan and PAL territories probably won’t see it until 2015 assuming Sega’s purchase of Atlas does not affect things. At this point I am not sure if I will import or wait for the localisation but given my history with the series, this is probably my most anticipated game of 2014/2015.
 
 **Update (8/2):** Added Child of Light release date
