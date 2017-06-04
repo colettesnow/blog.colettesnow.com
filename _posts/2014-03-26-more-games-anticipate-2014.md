@@ -1,3 +1,11 @@
+---
+title: 10 More Games I Anticipate During 2014
+redirect_from:
+  - post/98457446162/10-more-games-i-anticipate-during-2014
+  - post/98457446162/
+categories: [Video Games]
+date: 2014-03-26 24:00:00
+---
 ## 10 More Games I Anticipate During 2014
 
 **Apologies!** This has been sitting in my drafts completed since early February. I am only just posting now. :( I should have some reviews coming soon just as soon I as complete Pokémon Y and Final Fantasy Lightning Returns.
