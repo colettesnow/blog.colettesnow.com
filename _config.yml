@@ -16,11 +16,9 @@
 title: Colette Snow's Blog
 email: colette@colettesnow.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal weblog of Colette Snow covering Anime, Technology and Video Games.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://testblog.colettesnow.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: colette_snow
 github_username:  colettesnow
 
@@ -30,7 +28,6 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-sitemap
   - jekyll-seo-tag
 collections:
   cats:
@@ -39,3 +36,21 @@ collections:
   exclude:
   - Gemfile
   - Gemfile.lock
+
+# SEO
+author:
+  twitter: colette_snow
+
+# Social settings
+
+social:
+  name: Colette Snow
+  links:
+    - https://twitter.com/colette_snow
+    - https://www.facebook.com/colette.a.snow
+    - https://www.linkedin.com/in/colettesnow
+    - https://plus.google.com/u/0/106627462472248198069
+    - https://github.com/colettesnow
+    - http://about.me/colettesnow
+    - http://www.pinterest.com/colettesnow/
+    - https://t.me/colettesnow
